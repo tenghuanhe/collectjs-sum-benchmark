@@ -1,0 +1,15 @@
+{
+  "name": "collectjs-sum-benchmark",
+  "version": "1.0.0",
+  "description": "Benchmark for sum in collect.js",
+  "scripts": {
+    "test1": "node test1.js 10000000",
+    "test2": "node test2.js 10000000",
+    "test3": "node test3.js 10000000"
+  },
+  "author": "Tenghuan He",
+  "license": "MIT",
+  "dependencies": {
+    "benchmark": "^2.1.0"
+  }
+}
